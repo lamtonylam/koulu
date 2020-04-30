@@ -1,6 +1,6 @@
 ---
 # Display name
-title: David
+title: Altin Nura
 
 # Username (this should match the folder name)
 authors:
@@ -17,7 +17,7 @@ role:
 bio:
 
 interests:
-- "näytän apinalta tässä"
+- ""
 
 
 
@@ -28,10 +28,11 @@ interests:
 social:
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/david._.todua/
+  link: https://www.instagram.com/Nura.altin/
 - icon: snapchat-ghost
   icon_pack: fab
-  link: https://www.snapchat.com/add/davidtodua  
+  link: https://www.snapchat.com/add/Altin_nura
+  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
