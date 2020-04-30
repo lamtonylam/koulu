@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Pinja Kemppainen
+title: Joni Orre
+
 
 
 # Username (this should match the folder name)
@@ -29,10 +30,10 @@ interests:
 social:
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/pinjajanniina/
+  link: https://www.instagram.com/orrejoni/
 - icon: snapchat-ghost
   icon_pack: fab
-  link: https://www.snapchat.com/add/pinja.janniina  
+  link: https://www.snapchat.com/add/joniorre  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -46,6 +47,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 9B
+- 9A
 ---
 
