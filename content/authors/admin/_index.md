@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Student at Veromäen koulu / Junior high of Veromäki
+role: The one and only
 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Wazaaaap!
 
 interests:
-- Hyvää kesää kaikille, ja kiitos näistä kultaisista vuosista.
+- "See you in 15 years, when you want to friend me on Facebook"
 
 
 
