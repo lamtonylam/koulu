@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Amanda Ryymin
-
+title: Vera
 
 # Username (this should match the folder name)
 authors:
@@ -11,16 +10,14 @@ authors:
 superuser: false
 
 # Role/position
-role: The Math Wiz™
+role: 
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: The Math Wiz™
-
+bio:
 
 interests:
-- "To eat is to appropriate by destruction.
-— Jean-Paul Sartre"
+- "I believe in hate at first sight"
 
 
 
@@ -29,12 +26,12 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- #icon: instagram
+- icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/david._.todua/
-- #icon: snapchat-ghost
+  link: https://www.instagram.com/vera.aleksandraa/
+- icon: snapchat-ghost
   icon_pack: fab
-  link: https://www.snapchat.com/add/davidtodua  
+  link: https://www.snapchat.com/add/verasnap6  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -48,6 +45,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 9C
+- 9A
 ---
 
