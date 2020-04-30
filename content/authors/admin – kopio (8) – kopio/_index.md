@@ -11,11 +11,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Faija
 
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Faija
 
 interests:
 - "Nakkipiilo"
