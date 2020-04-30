@@ -36,10 +36,10 @@ social:
   link: https://rebrand.ly/6l7w1u3
 - icon: instagram
   icon_pack: fab
-  link: https://rebrand.ly/fcw
+  link: https://www.instagram.com/jerrykokkonen/
 - icon: snapchat-ghost
   icon_pack: fab
-  link: https://rebrand.ly/asdawghaha  
+  link: https://www.snapchat.com/add/jkokkonen19  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
