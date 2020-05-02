@@ -47,6 +47,20 @@ social:
 - icon: snapchat-ghost
   icon_pack: fab
   link: https://rebrand.ly/asdawghaha  
+- icon: github
+  icon_pack: fab
+  link: https://github.com/lamtonylam
+- icon: skype
+  icon_pack: fab
+  link: skype:lamtonylam?call
+- icon: telegram
+  icon_pack: fab
+  link: https://telegram.me/mangoflamingo
+- icon: line
+  icon_pack: fab
+  link: http://line.me/ti/p/~einesruoka
+
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
