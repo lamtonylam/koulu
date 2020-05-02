@@ -15,8 +15,12 @@ Yksilöt ketkä ovat tälle sivustolle ladanneet tietonsa voivat; muuttaa tai po
 
 Yksilöt ketkä ovat tälle sivustolle ladanneet tietonsa ovat lukeneet ja hyväksyneet tietosuojalausekkeen ja käyttöehdot.
 
-Tämän sivuston voivat lukuisat hakukoneet indeksoida, ja täten kaikki tiedot voivat tulla indeksoiduksi esimerkiksi Googleen.
+Yksilön lataama sisältö on kokonaan hänen vastuulla. Sivuston ylläpitäjä ei vastaa mistään.
+
+Tämän sivuston voivat hakukoneet indeksoida, ja täten kaikki tiedot voivat tulla indeksoiduksi esimerkiksi Googleen.
 
 Verkkosivun luonteen vuoksi, sivustoa voi katsella kuka tahansa.
 
-Sivuston tekijällä on oikeus poistaa yksilöiden ladatut tiedot, ilman erityistä syytä ja ilman ennakkovaroitusta.
+Sivuston tekijällä on oikeus poistaa yksilöiden ladatut tiedot, ilman erityistä syytä ja ilman minkäänlaista ennakkovaroitusta.
+
+Sivuston ylläpitäjä ei takaa sivuston toimivuutta. Tai sivuston käytöstä aiheutunutta haittaa tai vahinkoa.
