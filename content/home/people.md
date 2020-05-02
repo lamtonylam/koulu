@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "2020 Alumni"
-subtitle = ""
+subtitle = "Sivun tehnyt: Tony Lam "
 
 [content]
   # Choose which groups/teams of users to display.
