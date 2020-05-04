@@ -14,8 +14,6 @@
   </div>
   {{ end }}
 
-  <h3>Liittymislomake löytyy sivuston lopusta.</h3>
-
   {{ with $page.Content }}
   <div class="col-md-12">
     {{ . }}
@@ -55,14 +53,15 @@
       <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
       {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
-      {{ if and $show_interests .Params.interests }}<p class="people-quote">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
+      {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
     </div>
   </div>
   {{ end }}
   {{ end }}
 </div>
 
-
 <br>
 <br>
-<div class="typeform-widget" data-url="https://lamtonylam.typeform.com/to/wcDk7V" style="width: 100%; height: 700px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script></div>
+<a href="https://lamtonylam.typeform.com/to/wcDk7V">Klikkaa tästä jos lomake ei näy oikein.</a>
+<br>
+<div class="typeform-widget" data-url="https://lamtonylam.typeform.com/to/wcDk7V" data-hide-headers=true style="width: 100%; height: 800px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> </div>
