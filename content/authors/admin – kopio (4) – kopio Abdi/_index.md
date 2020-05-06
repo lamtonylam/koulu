@@ -33,6 +33,18 @@ interests:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
+social:
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/air_abdi/
+- icon: snapchat-ghost
+  icon_pack: fab
+  link: https://www.snapchat.com/add/hassanabdirahm8  
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCnAT0bBrUlhuXGH_C2tQDyQ
+
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
