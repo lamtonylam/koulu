@@ -11,7 +11,7 @@ header:
   caption: ""
   image: ""
 ---
-Yksilöt ketkä ovat tälle sivustolle ladanneet tietonsa voivat; muuttaa tai poistaa tietonsa. Ota yhteyttä rekisterinpitäjään: tony.lam@iki.fi
+Yksilöt ketkä ovat tälle sivustolle ladanneet tietonsa voivat; muuttaa tai poistaa tietonsa. Ota yhteyttä rekisterinpitäjään: privacy@tonylam.tech
 
 Yksilöt ketkä ovat tälle sivustolle ladanneet tietonsa ovat lukeneet ja hyväksyneet käyttöehdot.
 

@@ -50,9 +50,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/lamtonylam
-- icon: skype
-  icon_pack: fab
-  link: skype:lamtonylam?call
 - icon: telegram
   icon_pack: fab
   link: https://telegram.me/mangoflamingo
