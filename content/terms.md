@@ -13,7 +13,7 @@ header:
 ---
 Yksilöt ketkä ovat tälle sivustolle ladanneet tietonsa voivat; muuttaa tai poistaa tietonsa. Ota yhteyttä rekisterinpitäjään: tony.lam@iki.fi
 
-Yksilöt ketkä ovat tälle sivustolle ladanneet tietonsa ovat lukeneet ja hyväksyneet tietosuojalausekkeen ja käyttöehdot.
+Yksilöt ketkä ovat tälle sivustolle ladanneet tietonsa ovat lukeneet ja hyväksyneet käyttöehdot.
 
 Yksilön lataama sisältö on kokonaan hänen vastuulla. Sivuston ylläpitäjä ei vastaa mistään.
 
